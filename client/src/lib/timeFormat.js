@@ -6,3 +6,5 @@ const timeFormat = (minutes) => {
 }
 
 export default timeFormat;
+
+
